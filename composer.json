@@ -1,0 +1,17 @@
+{
+    "name": "backpack/legal-documents",
+    "description": "All legal documents for the Backpack organization.",
+    "license": ":license",
+    "authors": [
+        {
+            "name": "Cristian Tabacitu",
+            "email": "cristian.tabacitu@backpackforlaravel.com",
+            "homepage": "https://backpackforlaravel.com"
+        }
+    ],
+    "homepage": "https://github.com/laravel-backpack/legal-documents",
+    "keywords": [
+        "Laravel", "Backpack", "Backpack for Laravel", "Legal Documents", "Transparency", "Fair Company"
+    ],
+    "require": {}
+}
