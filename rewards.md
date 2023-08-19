@@ -68,7 +68,7 @@ These Terms and Conditions form the agreement between Backpack, Advocates and Re
 
 4.9 For a purchase that was made with both an Affiliate Link and a Discount Coupon, Backpack may offer a limited Reward to Affiliates, for the first purchase of a Referred User, if specified in the Campaign.
 
-4.10 **Backpack will send an automatic email report every 1st of the month to each Affiliate**, detailing their remaining unclaimed Rewards. In order to receive cash for their Rewards, the Affiliate must communicate an invoice (by replying to [affiliates@backpackforlaravel.com](mailto:affiliates@backpackforlaravel.com)). Once that invoice is confirmed as accurate, Backpack will pay it within 30 business days. **<span style="text-decoration:underline;">If an invoice is not submitted within 6 months of any specific reward which is claimable, the affiliate loses the right to claim such reward. </span>**
+4.10 **Backpack will send an automatic email report every 1st of the month to each Affiliate**, detailing their remaining unclaimed Rewards. In order to receive cash for their Rewards, the Affiliate must communicate an invoice (by replying to [affiliates@backpackforlaravel.com](mailto:affiliates@backpackforlaravel.com)). Once that invoice is confirmed as accurate, Backpack will pay it within 30 business days. **<span style="text-decoration:underline;">If an invoice is not submitted within 12 months of any specific reward which is claimable, the affiliate loses the right to claim such reward. </span>**
 
 4.11 **<span style="text-decoration:underline;">Affiliate invoices can only be paid through bank transfer, credit card or PayPal.</span>**
 
