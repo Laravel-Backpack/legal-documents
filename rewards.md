@@ -14,7 +14,7 @@ These Terms and Conditions form the agreement between Backpack, Advocates and Re
 - **Product** means all purchases possible directly on the Website - including but not limited to addons (PRO, DevTools, EditableColumns, FigmaTemplate) and bundles (Single-Project PRO, Multiple–Project PRO, Everything Bundle) as offered for sale by Backpack. It does not refer to services (eg. custom web development, custom design etc).
 - **Referral Terms** means these Terms and Conditions, including Reward Campaigns, updates, alterations and possible appendices, published on the Website.
 - **We (“our”, “us”, “Backpack”, “Backpack for Laravel”)** means COMPLEMENT SOFTWARE SRL, a Romanian limited liability company located at Calea Victoriei 142-148, sc C, et 3, ap 17 in Bucharest, Romania (sector 1), registered with the Trade Registry number J 40/5536/2016, VAT number RO35962660.
-- **Website** means our website: [www.backpackforlaravel.com](www.backpackforlaravel.com)
+- **Website** means our website: [www.backpackforlaravel.com](https://backpackforlaravel.com)
 - **You** means the Affiliate or Advocate, as applicable.
 
 1.2 Capitalized terms that are not defined here will have the same meaning given to them in the Backpack Terms and Conditions as published on our webpage.
